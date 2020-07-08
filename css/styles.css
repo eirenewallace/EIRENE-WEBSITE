@@ -108,7 +108,8 @@ h6 {
 .email {
 	font-size: 20px;
 	padding-top: 50px;
-	padding-left: 205px;
+	text-align: justify;
+	padding-left: 210px;
 	font-style: italic; 
 
 }
@@ -319,7 +320,7 @@ font-size: 30px;
 
 .linkz {
   padding-top: 70px;
-  padding-left: 200px;
+  padding-left: 250px;
 
 }
 
