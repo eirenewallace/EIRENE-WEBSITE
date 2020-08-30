@@ -92,6 +92,13 @@ h6 {
   padding: 20px; 
 }
 
+.email {
+  padding: 60px;
+  padding-left: 600px;
+  margin-left: 300px;
+  text-align: center;
+}
+
 .eduTitle {
   font-size: 18px; 
   margin-left: 20px; 
@@ -319,18 +326,21 @@ font-size: 30px;
 
 .linkz {
   padding-top: 70px;
-  padding-left: 300px;
+  padding-left: 400px;
 
 }
 
+.main{
+  padding-top: 30px;
+ 
+}
 
 .video-grid{
-  margin-top:50px;
+  margin-top:5px;
   margin-bottom: 50px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows:  1fr 1fr;
+  grid-template-columns: 300px 300px;
+  grid-template-rows: auto auto;
   gap: 0.5em;
-  padding-left: 70px;
+  padding-left: 20px;
 }
-
